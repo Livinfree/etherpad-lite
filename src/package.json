@@ -67,7 +67,7 @@
     "threads": "^1.4.0",
     "tiny-worker": "^2.3.0",
     "tinycon": "0.0.1",
-    "ueberdb2": "^0.5.3",
+    "ueberdb2": "^4.0.1",
     "underscore": "1.8.3",
     "unorm": "1.4.1"
   },
@@ -75,7 +75,7 @@
     "etherpad-lite": "./node/server.js"
   },
   "devDependencies": {
-    "mocha": "7.1.2",
+    "mocha": "10.2.0",
     "mocha-froth": "^0.2.10",
     "nyc": "15.0.1",
     "set-cookie-parser": "^2.4.6",
